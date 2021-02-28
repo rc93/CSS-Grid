@@ -1,4 +1,3 @@
 # CSS-Grid
 CSS Grid Example
-<br>
-![alt text]()
+(https://github.com/rc93/CSS-Grid/blob/main/preview.png)
